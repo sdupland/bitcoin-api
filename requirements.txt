@@ -1,0 +1,19 @@
+pydantic
+typing
+pandas
+numpy
+requests
+requests-oauthlib
+gunicorn
+jsonschema
+boto3
+openpyxl
+fastapi[all]
+scikit-learn
+xgboost
+python-multipart
+psutil
+joblib
+Pillow
+functions
+scikit-learn == 1.3.2
