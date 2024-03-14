@@ -4,13 +4,7 @@ from fastapi import FastAPI # help building API in an easy way and good performa
 from pydantic import BaseModel # basemodel is a class used to define data models
 # from typing import Literal, Union # typing provides a set of classes for working with types and type hints abd specify expected types of variables for example
 from joblib import load
-# import xgboost as xgb
-# from pandas import DataFrame
-# from sklearn.preprocessing import StandardScaler
-# from sklearn.linear_model import LinearRegression, ElasticNet
 from functions import calculate_all_indicators_optimised
-# from xgboost import XGBRegressor
-# from sklearn.feature_selection import RFE
 import yfinance as yf
 
 # description
