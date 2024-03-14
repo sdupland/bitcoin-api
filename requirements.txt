@@ -9,8 +9,6 @@ jsonschema
 boto3
 openpyxl
 fastapi[all]
-scikit-learn
-xgboost
 python-multipart
 psutil
 joblib
